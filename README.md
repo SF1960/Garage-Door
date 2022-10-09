@@ -13,7 +13,7 @@ WiFi control of an electric garage door
 GitHub page
 https://github.com/SF1960/Garage-Door.git
 
-GitHub download
+GitHub download using your terminal
 gh repo clone SF1960/Garage-Door
 
 GitHib ZIP file
