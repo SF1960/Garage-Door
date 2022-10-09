@@ -1,4 +1,12 @@
-#Garage-Door Project
+# Garage Door Remote Control
+## Read me file ##
+### Using Python to control a garage door
+
+_Examples of code_
+
+*The editor uses markdown*
+
+***Garage Door Project***
 
 WiFi control of an electric garage door 
 
