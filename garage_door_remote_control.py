@@ -1,4 +1,3 @@
-control buttons. A click or tap on one of the buttons triggers code that toggles the corresponding transistor - driving the door.
 
 """
 Garage Door Controller code
@@ -15,6 +14,7 @@ import time
 import network
 import uasyncio as asyncio
 from machine import Pin
+import secrets 
 
 # Hardware definitions
 led = Pin("LED", Pin.OUT, value=1)
@@ -23,8 +23,8 @@ pin_down = Pin(17, Pin.OUT, value=0)
 pin_stop = Pin(18, Pin.OUT, value=0)
 
 # Configure your WiFi SSID and password
-ssid = 'My Network'
-password = 'Password'
+ssid = secrets.SSID
+password = secrets.PASSWORD
 
 check_interval_sec = 0.25
 
