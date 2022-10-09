@@ -10,12 +10,12 @@ _Examples of code_
 
 WiFi control of an electric garage door 
 
-GitHub page
+GitHub page:
 https://github.com/SF1960/Garage-Door.git
 
-GitHub download using your terminal
+GitHub download using your terminal enter:
 gh repo clone SF1960/Garage-Door
 
-GitHib ZIP file
+GitHib ZIP file:
 https://github.com/SF1960/Garage-Door/archive/refs/heads/main.zip
 
