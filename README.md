@@ -1,4 +1,4 @@
-###Garage-Door Project
+#Garage-Door Project
 
 WiFi control of an electric garage door 
 
